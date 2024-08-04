@@ -5,7 +5,8 @@
 ---
 Java RESTful API criada para a Santander Dev Week.
 
-### Principais Tecnologias
+## Principais Tecnologias
+
 ---
 - **Java 21**
 - **Spring Boot 3**
@@ -13,7 +14,9 @@ Java RESTful API criada para a Santander Dev Week.
 - **OpenAPI (Swagger)**
 - **Railway**
 ---
+
 ## Diagrama de classes
+
 ```mermaid
 classDiagram
   class User {
