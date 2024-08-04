@@ -13,7 +13,7 @@ Java RESTful API criada para a Santander Dev Week.
 - **OpenAPI (Swagger)**
 - **Railway**
 ---
-
+## Diagrama de classes
 ```mermaid
 classDiagram
   class User {
@@ -53,7 +53,7 @@ classDiagram
 
 ``` 
 
-
+---
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
